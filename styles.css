@@ -2437,6 +2437,18 @@ fieldset:disabled a.btn {
   pointer-events: none;
 }
 
+.btn-github {
+  color: #fff;
+  background-color: #24292e;
+  border-color: #24292e;
+}
+.btn-github:hover {
+  color: #fff;
+  text-decoration: underline;
+  background-color: #04292e;
+  border-color: #04292e;
+}
+
 .btn-primary {
   color: #fff;
   background-color: #00802b;
